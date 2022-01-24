@@ -12,5 +12,3 @@ const printProfileData = profileDataArr => {
     console.log(profileItem)
   });
 };
-
-printProfileData(profileDataArgs);
